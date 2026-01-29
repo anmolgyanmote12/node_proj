@@ -1,0 +1,23 @@
+{
+  "name": "mega-node-proj",
+  "version": "1.0.0",
+  "description": "a proj managment app for beginners",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "udemy",
+    "course",
+    "api",
+    "api",
+    "creation",
+    "backend"
+  ],
+  "author": "Anmol G",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
