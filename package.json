@@ -2,7 +2,7 @@
   "name": "mega-node-proj",
   "version": "1.0.0",
   "description": "a proj managment app for beginners",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
@@ -26,6 +26,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
+    "mongodb": "^7.1.0",
     "mongoose": "^9.1.5"
   }
 }
